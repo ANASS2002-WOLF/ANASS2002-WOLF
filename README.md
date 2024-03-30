@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?<br>I am software developer - front end . <br>I am interested in  Web Development and building React  Projects</h1>
+<h1 align="left">Hey 👋 What's up?<br>I am ANAS ,I am software developer | front end  <br>I am interested in  Web Development and building accessible user interfaces . </h1>
 
 ###
 
-<h4 align="left">I am Anas , I am Computer science and Mathematics graduate , Passionate about web development | Eager to explore new opportunities as a Front-end developer.</h4>
+
 
 ###
 
